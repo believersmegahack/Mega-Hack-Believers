@@ -2,7 +2,7 @@
 Projeto da equipe Believers na participação do Mega Hack Shawee.
 
 # Integrantes
-Luciana Rodrigues - https://www.linkedin.com/in/luciana-rodrigues-a8451aa3
+Luciana Rodrigues - https://www.linkedin.com/in/luciana-rodrigues-a8451aa3 
 Hugo Carvalho - https://www.linkedin.com/in/hcdias
 Eduardo Martins da Cunha - https://www.linkedin.com/in/engeduardocunha/
 Jéssica
