@@ -2,11 +2,10 @@
 Projeto da equipe Believers na participação do Mega Hack Shawee.
 
 # Integrantes
-Luciana Rodrigues - https://www.linkedin.com/in/luciana-rodrigues-a8451aa3 
-Hugo Carvalho - https://www.linkedin.com/in/hcdias
-Eduardo Martins da Cunha - https://www.linkedin.com/in/engeduardocunha/
-Jéssica Marques - https://www.linkedin.com/in/jessica-marques-88b33b69/
-André
+[Luciana Rodrigues]  (https://www.linkedin.com/in/luciana-rodrigues-a8451aa3) 
+[Hugo Carvalho]   (https://www.linkedin.com/in/hcdias)
+[Eduardo Martins da Cunha]  (https://www.linkedin.com/in/engeduardocunha/)
+[Jéssica Marques]  (https://www.linkedin.com/in/jessica-marques-88b33b69/)
 
 # Desafio Escolhido - LOFT
 Quando estamos na procura do nosso apartamento ideal, assim que mostramos o interesse para o mercado, recebemos uma enxurrada de abordagens comerciais, não é mesmo?
@@ -15,3 +14,6 @@ Por outro lado, quando somos os vendedores de um apartamento, cada possível com
 Isso nos traz o grande ponto-chave do nosso desafio: Os corretores estão sempre atrás dos mesmos clientes!
 Como ajudar os corretores a buscarem novos clientes? E como apoiá-los a identificar futuros clientes, antes mesmo deles saberem que querem vender ou comprar?
 Bora mudar o mercado imobiliário e ajudar esse público tão importante para nós!
+
+# Implementação
+Foi criado para resolver o problema de 
