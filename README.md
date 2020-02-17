@@ -5,7 +5,7 @@ Projeto da equipe Believers na participação do Mega Hack Shawee.
 Luciana Rodrigues - https://www.linkedin.com/in/luciana-rodrigues-a8451aa3 
 Hugo Carvalho - https://www.linkedin.com/in/hcdias
 Eduardo Martins da Cunha - https://www.linkedin.com/in/engeduardocunha/
-Jéssica
+Jéssica Marques - https://www.linkedin.com/in/jessica-marques-88b33b69/
 André
 
 # Desafio Escolhido - LOFT
