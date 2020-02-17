@@ -2,10 +2,10 @@
 Projeto da equipe Believers na participação do Mega Hack Shawee.
 
 # Integrantes
-[Luciana Rodrigues]  (https://www.linkedin.com/in/luciana-rodrigues-a8451aa3) 
-[Hugo Carvalho]   (https://www.linkedin.com/in/hcdias)
-[Eduardo Martins da Cunha]  (https://www.linkedin.com/in/engeduardocunha/)
-[Jéssica Marques]  (https://www.linkedin.com/in/jessica-marques-88b33b69/)
+- [Luciana Rodrigues]  (https://www.linkedin.com/in/luciana-rodrigues-a8451aa3) : Developer
+- [Hugo Carvalho]   (https://www.linkedin.com/in/hcdias): Developer
+- [Eduardo Martins da Cunha]  (https://www.linkedin.com/in/engeduardocunha/): Business
+- [Jéssica Marques]  (https://www.linkedin.com/in/jessica-marques-88b33b69/): Business
 
 # Desafio Escolhido - LOFT
 Quando estamos na procura do nosso apartamento ideal, assim que mostramos o interesse para o mercado, recebemos uma enxurrada de abordagens comerciais, não é mesmo?
