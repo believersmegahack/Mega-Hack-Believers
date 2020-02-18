@@ -43,6 +43,9 @@ Na solução proposta nossa assistente tem diversas perguntas treinadas na lingu
 Após algumas perguntas, a nossa assistente irá questionar para o cliente se ele(a) deseja se conectar com um de nossos corretores cadastrados e altamente qualificados que poderá ser feito posteriormente como algoritmos de recomendação como Collaborative Filtering, Content-based Filtering entre outros que poderão ser testados para melhorar a eficácia da recomendação.
 Após a escolha todos os dados do usuário que utilizou são gravados para análises e uso em recaptação de clientes.
 
+Logs gravados:
+(https://github.com/believersmegahack/Mega-Hack-Believers/blob/master/logs.png)
+
 
 [Teste o chatbot](http://m.me/102730937979971)
 
