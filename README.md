@@ -13,6 +13,7 @@ Como ajudar os corretores a buscarem novos clientes? E como apoiá-los a identif
 ## Soluções
 Para a resolução desse desafio a equipe propôs uma estratégia de captação bem elaborada com intuito de fazer frente a pesada concorrência que ocorre no ramo imobiliário. Primeiramente foi feito uma matriz SWOT em busca de nos fornecer uma direção e onde nossas ideias poderiam ser importantes.
 
+#Matriz SWOT
 [![Matriz SWOT](https://github.com/believersmegahack/Mega-Hack-Believers/blob/master/swot.png)(https://github.com/believersmegahack/Mega-Hack-Believers/blob/master/swot.png)]
 
 ## Implementação
