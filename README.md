@@ -16,6 +16,4 @@ Como ajudar os corretores a buscarem novos clientes? E como apoiá-los a identif
 Bora mudar o mercado imobiliário e ajudar esse público tão importante para nós!
 
 ## Implementação
-Foi criado para resolver o problema de
-
-[Teste o chatbot](http://m.me/102730937979971)
+Com intuito de captar novos clientes através da interação em redes sociais foi criado um chatbot usando a plataforma Chatfuel + Google Sheets + Integromat que pode ser testado neste link. [Teste o chatbot](http://m.me/102730937979971)
