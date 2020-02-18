@@ -19,7 +19,7 @@ Para a resolução desse desafio a equipe propôs uma estratégia de captação 
 ## Canvas
 Também criamos o Business Model Canvas que também é uma ferramenta de planejamento estratégico que nos permitiu desenvolver e esboçar nosso modelo de negócios.
 
-![Canvas] (https://github.com/believersmegahack/Mega-Hack-Believers/blob/master/canvas.png)
+![Canvas](https://github.com/believersmegahack/Mega-Hack-Believers/blob/master/canvas.png)
 
 
 ## Implementação
