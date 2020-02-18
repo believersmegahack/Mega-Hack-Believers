@@ -23,7 +23,7 @@ Também criamos o Business Model Canvas que também é uma ferramenta de planeja
 
 ## Soluções Escolhidas
 
-# Ajudando na Busca de Novos Clientes – Geo Marketing
+## Ajudando na Busca de Novos Clientes – Geo Marketing
 >*Geomarketing é uma poderosa abordagem de Marketing para entender, enxergar, planejar e atuar no mercado através de inteligência geográfica e estratégia mercadológica. Com o geomarketing e Big Data sua empresa pode obter soluções para problemas complexos ou difusos com rapidez, redução de riscos e aumento de rentabilidade. (https://www.geomarketing.com.br/o-que-e)
 
 Visando essa abordagem de Marketing o grupo criou um protótipo com uma solução onde o usuário do aplicativo interessado em encontrar o tão sonha imóvel possa durante o trajeto do dia a dia receber notificações de imóveis em seu caminho, assim ele pode explorar algum bairro onde tenha interesse e ter notificações caso passe por perto de algum imóvel.
@@ -45,8 +45,10 @@ Após a escolha todos os dados do usuário que utilizou são gravados para anál
 
 [logs gravados](https://github.com/believersmegahack/Mega-Hack-Believers/blob/master/logs.png)
 
-
+Experimento nosso bot para Messenger - Facebook
 [Teste o chatbot](http://m.me/102730937979971)
+
+
 
 ## Implementação
 Com intuito de captar novos clientes através da interação em redes sociais foi criado um chatbot usando a plataforma Chatfuel + Google Sheets + Integromat que pode ser testado neste link. 
