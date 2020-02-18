@@ -34,6 +34,17 @@ O que acha de dar uma olhadinha?” *
 
 Com uso desse recurso poderemos avisar os clientes de novos imóveis bem como captar interesse de possíveis compradores.
 
+## Inteligência Artificial e chatbots para captação de novos clientes
+
+Uma das formas de se conquistar novos clientes é através do engajamento nas redes sociais e agilidades dos Bots como assistentes virtuais.
+O grupo desenvolveu uma solução de busca facilitada que pode direcionar o cliente facilmente através de interação em redes sociais.
+Desenvolvido IA treinada e algoritmos de NLP que reconhece e padroniza a linguagem podemos ajudar, facilitar e ser mais assertiva na escolha do imóvel pelo cliente, além de capturar informações do perfil do usuário e posteriormente utilizar um algoritmo de recomendação mais assertivo.
+Na solução proposta nossa assistente tem diversas perguntas treinadas na linguagem do consumidor, o que torna mais fácil a utilização para ajudar nosso cliente á encontrar a melhor opção de compra do imóvel.
+Após algumas perguntas, a nossa assistente irá questionar para o cliente se ele(a) deseja se conectar com um de nossos corretores cadastrados e altamente qualificados que poderá ser feito posteriormente como algoritmos de recomendação como Collaborative Filtering, Content-based Filtering entre outros que poderão ser testados para melhorar a eficácia da recomendação.
+Após a escolha todos os dados do usuário que utilizou são gravados para análises e uso em recaptação de clientes.
+
+
+[Teste o chatbot](http://m.me/102730937979971)
 
 ## Implementação
-Com intuito de captar novos clientes através da interação em redes sociais foi criado um chatbot usando a plataforma Chatfuel + Google Sheets + Integromat que pode ser testado neste link. [Teste o chatbot](http://m.me/102730937979971)
+Com intuito de captar novos clientes através da interação em redes sociais foi criado um chatbot usando a plataforma Chatfuel + Google Sheets + Integromat que pode ser testado neste link. 
