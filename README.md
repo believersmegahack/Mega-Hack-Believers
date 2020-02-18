@@ -35,6 +35,5 @@ O que acha de dar uma olhadinha?” *
 Com uso desse recurso poderemos avisar os clientes de novos imóveis bem como captar interesse de possíveis compradores.
 
 
-
 ## Implementação
 Com intuito de captar novos clientes através da interação em redes sociais foi criado um chatbot usando a plataforma Chatfuel + Google Sheets + Integromat que pode ser testado neste link. [Teste o chatbot](http://m.me/102730937979971)
