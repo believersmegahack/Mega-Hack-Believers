@@ -11,10 +11,16 @@ Projeto da equipe Believers na participação do Mega Hack Shawee.
 Como ajudar os corretores a buscarem novos clientes? E como apoiá-los a identificar futuros clientes, antes mesmo deles saberem que querem vender ou comprar?
 
 ## Soluções
-Para a resolução desse desafio a equipe propôs uma estratégia de captação bem elaborada com intuito de fazer frente a pesada concorrência que ocorre no ramo imobiliário. Primeiramente foi feito uma matriz SWOT em busca de nos fornecer uma direção e onde nossas ideias poderiam ser importantes.
+Para a resolução desse desafio a equipe propôs uma estratégia de captação bem elaborada com intuito de fazer frente a pesada concorrência que ocorre no ramo imobiliário. Primeiramente foi feito uma matriz SWOT para verificar onde nossas sugestões poderiam nos levar.
 
 # Matriz SWOT
-![Matriz SWOT](https://github.com/believersmegahack/Mega-Hack-Believers/blob/master/swot.png)(https://github.com/believersmegahack/Mega-Hack-Believers/blob/master/swot.png)
+![Matriz SWOT](https://github.com/believersmegahack/Mega-Hack-Believers/blob/master/swot.png)
+
+## Canvas
+Também criamos o Business Model Canvas que também é uma ferramenta de planejamento estratégico que nos permitiu desenvolver e esboçar nosso modelo de negócios.
+
+
+
 
 ## Implementação
 Com intuito de captar novos clientes através da interação em redes sociais foi criado um chatbot usando a plataforma Chatfuel + Google Sheets + Integromat que pode ser testado neste link. [Teste o chatbot](http://m.me/102730937979971)
