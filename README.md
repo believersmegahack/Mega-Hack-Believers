@@ -8,12 +8,12 @@ Projeto da equipe Believers na participação do Mega Hack Shawee.
 - [Jéssica Marques](https://www.linkedin.com/in/jessica-marques-88b33b69/): Business
 
 ## Desafio Escolhido - LOFT
->Quando estamos na procura do nosso apartamento ideal, assim que mostramos o interesse para o mercado, recebemos uma enxurrada de abordagens comerciais, não é mesmo?
-São diversos anúncios repetidos, dezenas de corretores diferentes com a mesma oferta... sem contar os próprios proprietários que ficam sabendo do interesse e decidem nos abordar diretamente.
-Por outro lado, quando somos os vendedores de um apartamento, cada possível comprador é abordado por vários corretores diferentes para tentar vender nosso apartamento, sem sabermos como priorizar o contato ou com quem seguir.
-Isso nos traz o grande ponto-chave do nosso desafio: Os corretores estão sempre atrás dos mesmos clientes!
 Como ajudar os corretores a buscarem novos clientes? E como apoiá-los a identificar futuros clientes, antes mesmo deles saberem que querem vender ou comprar?
-Bora mudar o mercado imobiliário e ajudar esse público tão importante para nós!
+
+## Soluções
+Para a resolução desse desafio a equipe propôs uma estratégia de captação bem elaborada com intuito de fazer frente a pesada concorrência que ocorre no ramo imobiliário. Primeiramente foi feito uma matriz SWOT em busca de nos fornecer uma direção e onde nossas ideias poderiam ser importantes.
+
+
 
 ## Implementação
 Com intuito de captar novos clientes através da interação em redes sociais foi criado um chatbot usando a plataforma Chatfuel + Google Sheets + Integromat que pode ser testado neste link. [Teste o chatbot](http://m.me/102730937979971)
