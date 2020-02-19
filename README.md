@@ -34,6 +34,10 @@ O que acha de dar uma olhadinha?” *
 
 Com uso desse recurso poderemos avisar os clientes de novos imóveis bem como captar interesse de possíveis compradores.
 
+## Visualização 3D
+Ao passar pelo local do imóvel haverá uma opção para visualizar o imóvel sem estar nele. Este recurso também poderá estar disponível no chatbot e futuramente o consultor poderá mostrar o imóvel com o uso de óculos de realidade virtual, como no vídeo abaixo.
+
+
 ## Inteligência Artificial e chatbots para captação de novos clientes
 
 Uma das formas de se conquistar novos clientes é através do engajamento nas redes sociais e agilidades dos Bots como assistentes virtuais.
@@ -48,6 +52,10 @@ Após a escolha todos os dados do usuário que utilizou são gravados para anál
 Experimento nosso bot para Messenger - Facebook
 [Teste o chatbot](http://m.me/102730937979971)
 
+## Acesso Corretor > Cliente
+No acesso “Portal Corretor”, que já existe no site, liberará uma busca de clientes pelo mapa e região, o corretor terá acesso aos contatos de clientes que aparecem na busca. 
+Uma vez que o cliente cadastrou seus dados na Loft, ou efetuou uma busca no Chatbot, esses dados estarão disponíveis em um portal para os gerentes organizarem seus corretores. 
+Quando o cliente estiver em contato com algum de nossos corretores, os dados serão cruzados e o mesmo não aparecerá na base de buscas dos corretores para que não ocorra duplo contato. 
 
 
 ## Implementação
