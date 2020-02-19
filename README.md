@@ -36,7 +36,7 @@ Com uso desse recurso poderemos avisar os clientes de novos imóveis bem como ca
 
 ## Visualização 3D
 Ao passar pelo local do imóvel haverá uma opção para visualizar o imóvel sem estar nele. Este recurso também poderá estar disponível no chatbot e futuramente o consultor poderá mostrar o imóvel com o uso de óculos de realidade virtual, como no vídeo abaixo.
-
+![video3d](https://github.com/believersmegahack/Mega-Hack-Believers/blob/master/Video%203D.mp4)
 
 ## Inteligência Artificial e chatbots para captação de novos clientes
 
