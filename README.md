@@ -70,6 +70,56 @@ Mensalidade R$100,00/mês.
 Pacote assinatura por 3 meses: R$ 330,00 total.
 * (Valores fictícios).
 
+## Road Map
+
+CERTIFICADO LOFT COM RECONHECIMENTO POR INDICAÇÃO NA PLATAFORMA: 
+MASTER / GOLD / PLATINUM. 
+
+O CORRETOR QUE TERÁ MAIS INDICAÇÕES DE CLIENTES NO SITE GANHARÁ O CERTIFICADO LOFT VIRTUAL.
+
+CRETIFICADO LOFT COM RECONHECIMENTO POR VENDAS NA PLATAFORMA: 
+PREMIUM – VIP – EXCELENCE.
+
+SUGESTÃO: 
+
+Avaliando o resultado da pesquisa feita com o cliente, modelo abaixo, a Loft poderá oferecer um Cursos/palestras exclusivas para os corretores que tem esse certificado para qualifica-los e se tornarem ainda mais diferenciados.
+
+## Mensuração de Dados e Início do Follow-up
+* E-mail pós-atendimento de pesquisa de satisfação. 
+* Ligação da central da Loft, caso o e-mail não tenha retorno.
+* Engajamento dos corretores para que incentivem seus clientes a cada final de atendimento realizar a avaliação.
+
+Exemplo de pesquisa:
+
+Você indicaria o (a) corretor (a) “tal” para um de seus amigos ou quaisquer possíveis clientes da Loft?           
+                                      
+		(   ) SIM 	(   ) NÃO
+
+Nos ajude á saber melhor como foi durante seu atendimento com o (a) corretor (a) “tal”?  
+
+Atendimento – 
+(  ) Me deu suporte (tirou todas minhas dúvidas e preocupações) 
+(  ) Não me deu suporte ( Fiquei com duvidas e insegura) . 
+
+Conhecimento – 
+(  ) Soube me explicar detalhadamente benefícios do imóvel e bairro  	                     (  ) Soube me explicar detalhadamente todo o processo de compra/venda.
+
+ Problemas – 
+(  ) Demorou para retornar 
+(  ) Não foi claro 
+
+Satisfação – 	
+(  ) Muito Satisfeito 
+(  ) Satisfeito 
+(  ) Não satisfeito
+
+Selecione o Emotion que mais reflete como foi sua experiência:
+
+## Adicional Pop-ups
+Na página, na opção de compra ou venda de um apartamento, aparecerá um Pop Up do corretor que é habilitado para essa funcionalidade. 
+O cliente que selecionar o corretor que aparecerá na janela no canto superior ou inferior, terá já o acesso aos dados dele para entrar em contato.
+O corretor que quiser habilitar essa funcionalidade, terá acesso mediante ao pagamento da mensalidade e mais um adicional.
+Adicional Pop Up: R$ 50,00.
 
 ## Implementação
 Com intuito de captar novos clientes através da interação em redes sociais foi criado um chatbot usando a plataforma Chatfuel + Google Sheets + Integromat que pode ser testado neste link. 
