@@ -10,7 +10,7 @@ O objetivo deste documento é descrever o protótipo desenvolvido parcialmente p
 ### 1. Tema
 
   A proposta do protótipo consiste na melhoria e/ou implementação de funcionalidades ausentes na ferramenta já desenvolvida pela Loft.
-  -
+
 
 
 ## 2. Dependências para executar o projeto
