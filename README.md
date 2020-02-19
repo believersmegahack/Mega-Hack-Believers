@@ -57,6 +57,19 @@ No acesso “Portal Corretor”, que já existe no site, liberará uma busca de 
 Uma vez que o cliente cadastrou seus dados na Loft, ou efetuou uma busca no Chatbot, esses dados estarão disponíveis em um portal para os gerentes organizarem seus corretores. 
 Quando o cliente estiver em contato com algum de nossos corretores, os dados serão cruzados e o mesmo não aparecerá na base de buscas dos corretores para que não ocorra duplo contato. 
 
+## Monetização
+Mensalidade cobrada aos corretores para se cadastrar no site da Loft.
+
+- Primeiro mês grátis, depois paga R$100,00/mês
+Pacote por 3 mesesR$280,00 total.
+
+- O corretor que desejar ser um dos primeiros á ser indicado no Chat Bot terá uma taxa adicional mais a mensalidade. 
+
+Taxa Adicional R$50,00.
+Mensalidade R$100,00/mês. 
+Pacote assinatura por 3 meses: R$ 330,00 total.
+* (Valores fictícios).
+
 
 ## Implementação
 Com intuito de captar novos clientes através da interação em redes sociais foi criado um chatbot usando a plataforma Chatfuel + Google Sheets + Integromat que pode ser testado neste link. 
